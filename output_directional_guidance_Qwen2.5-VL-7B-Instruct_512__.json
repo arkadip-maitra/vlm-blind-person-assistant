@@ -1,0 +1,4057 @@
+{
+    "VizWiz_val_00002075": {
+        "question": "For how long do I cook this in the microwave?",
+        "answer": "left",
+        "direction": "left"
+    },
+    "VizWiz_test_00004495": {
+        "question": "What am I staring at?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002090": {
+        "question": "Come in with these",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000632": {
+        "question": "Sorry about this, kinda feel like an idiot here, but I tried it again, so hopefully it works.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000969": {
+        "question": "Is this table lamp on or off?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002076": {
+        "question": "What is this, please?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00001233": {
+        "question": "What is this, please?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001028": {
+        "question": "What exactly does it show on the screen?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000424": {
+        "question": "Just say.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000128": {
+        "question": "Hi what's on this card?  I'm looking for some sort of ID number it could be eight digits.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00006712": {
+        "question": "what is this item?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00007510": {
+        "question": "Is this a pair of blue topaz earrings?  Thanks for your help.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006477": {
+        "question": "What is this object?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001830": {
+        "question": "Does this oven seem ready?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004920": {
+        "question": "Is this sugar or Splenda?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001538": {
+        "question": "What is this item?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00001094": {
+        "question": "What is this",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00000260": {
+        "question": "what is this camera doing or this screen on this computer what is it saying now we just started it up and its not talking yet",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00003735": {
+        "question": "What flavor of meal is this?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002412": {
+        "question": "Where is this plane from? What airline?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000372": {
+        "question": "What does it show on this computer monitor screen?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00004276": {
+        "question": "How much this?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000522": {
+        "question": "Okay, hopefully that's not too far up in left.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002169": {
+        "question": "What type of vegetable is this",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003836": {
+        "question": "What is this box?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000346": {
+        "question": "What does that say?",
+        "answer": "Error",
+        "direction": "right"
+    },
+    "VizWiz_test_00007856": {
+        "question": "It says recording. What color is this marker?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00004501": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002081": {
+        "question": "It didn't vibrate. Must have to turn that other vibrate on too. You need what now? You need the almonds unopened?",
+        "answer": "left",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004214": {
+        "question": "What is this photo of?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004703": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001789": {
+        "question": "Is the Yuengling traditional, or Yuengling premium?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001899": {
+        "question": "What is this item?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001589": {
+        "question": "What is this called?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001128": {
+        "question": "What's on my screen?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00003968": {
+        "question": "What does this card say?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00002015": {
+        "question": "What color is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000531": {
+        "question": "Hello hello hello.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000499": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006549": {
+        "question": "Is this product suitable for a nut allergy person to eat?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003546": {
+        "question": "Which color is this shirt, please?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003760": {
+        "question": "Is this better?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000930": {
+        "question": "This is the display of a treadmill, can you tell me the distance in miles off the top display please? Thank you. ",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00001641": {
+        "question": "Can you see the phone number that is on the paper? It is a toll free number. What is that number, please?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00005687": {
+        "question": "What is, what is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00002650": {
+        "question": "Does this broccoli look moldy at all? ",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004206": {
+        "question": "IS this DVD the Sound of Music?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00005867": {
+        "question": "What color is this?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00002124": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00004818": {
+        "question": "What is this item?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00005105": {
+        "question": "What color is this pair of sweats?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000515": {
+        "question": "Can you please read this?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00000664": {
+        "question": "Can you tell me what's on the screen now, if anything's changed?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001814": {
+        "question": "Which laptop is this?",
+        "answer": "Error",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002984": {
+        "question": "Do these socks match?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000645": {
+        "question": "Please tell me what this says. Please tell me what this says.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000937": {
+        "question": "What does this window say?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00004057": {
+        "question": "What temperature is this?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_val_00000578": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00001235": {
+        "question": "What color is this?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002773": {
+        "question": "Is this Obama?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000654": {
+        "question": "Please tell me what's on my screen.",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_val_00000509": {
+        "question": "what clothing is worn in this photo and how many people?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000663": {
+        "question": "Can you read the screen to me? THanks.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000825": {
+        "question": "It says books.",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004181": {
+        "question": "what is this pitting?",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_val_00000808": {
+        "question": "Can you tell me what this says?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_val_00000724": {
+        "question": "What is this? But yes I'll fold it.",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001578": {
+        "question": "What is this? But yes I'll fold it.",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000884": {
+        "question": "What is this please?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00002455": {
+        "question": "This is the display of the treadmill, can you tell me the distance off the top display please?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002110": {
+        "question": "Could you please identify this box?",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_test_00001502": {
+        "question": "What color is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00004455": {
+        "question": "What color is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003428": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00004212": {
+        "question": "What is in this box?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001389": {
+        "question": "What color is this shirt? ",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00005436": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002191": {
+        "question": "I want to be in the clothing study as a participant.  Thank you.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00005954": {
+        "question": "What is in this box?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004036": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000577": {
+        "question": "What is the access code?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00002502": {
+        "question": "What tea is this?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00001073": {
+        "question": "What is the e-mail address on this page?",
+        "answer": "left",
+        "direction": "left"
+    },
+    "VizWiz_test_00003094": {
+        "question": "What is in this jar?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003095": {
+        "question": "What is this? ",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00002005": {
+        "question": "What brand of cat food is this?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00007525": {
+        "question": "what kind of marijuana is this",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000182": {
+        "question": "Can you tell me what's on this screen please?  If at all readable or anything like that.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00002675": {
+        "question": "Please tell me where I am right now.  What's the name of this street?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00006480": {
+        "question": "What is the flavor of this yogurt?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000524": {
+        "question": "What does this say?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00006185": {
+        "question": "What color is this shirt?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006076": {
+        "question": "what is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001235": {
+        "question": "Can you tell me what my rate is please?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001144": {
+        "question": "Apple coffee number. ",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00007347": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001012": {
+        "question": "What headphones are these?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003989": {
+        "question": "What is this? ",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001558": {
+        "question": "what color is that pillow",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000041": {
+        "question": "What is this receipt about and is there a phone number?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00003825": {
+        "question": "Hello. Could you please tell me what kind of lunch meat this is? Thank you. The problem is waiting for this to stop. It doesn't",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00003891": {
+        "question": "What does this menu say please?",
+        "answer": "Error",
+        "direction": "left"
+    },
+    "VizWiz_test_00007322": {
+        "question": "what color is this fabric?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000180": {
+        "question": "On the screen does it say it's restoring?",
+        "answer": "Error",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000369": {
+        "question": "What does this say?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00003680": {
+        "question": "What song is this?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_test_00001519": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000620": {
+        "question": "Have the check disk command completed and were there any messages or errors shown?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00003436": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00001127": {
+        "question": "I didn't",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000661": {
+        "question": "What color is my shirt?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002067": {
+        "question": "What's on the back of that card?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001404": {
+        "question": "What's in this can?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000887": {
+        "question": "ISD confirmed February 8th and 9th. Does that work for you guys?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001202": {
+        "question": "How are you doing?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001067": {
+        "question": "What does the screen say?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00001622": {
+        "question": "What does this label say?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001712": {
+        "question": "What kind of yogurt is this?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00000164": {
+        "question": "Yeah what is this?",
+        "answer": "right",
+        "direction": "up"
+    },
+    "VizWiz_val_00003333": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_test_00005847": {
+        "question": "Could you please tell me what is in this bag?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000167": {
+        "question": "Okay, I've turn the package over and I need to know the grilling instruction for these burgers, thank you.",
+        "answer": "Error",
+        "direction": "right"
+    },
+    "VizWiz_val_00003260": {
+        "question": "What is this keyboard?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000244": {
+        "question": "Which one of the three images is the Google logo?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00000314": {
+        "question": "Can you please tell me not to compare skin cells? Thank you very much.",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00005681": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003160": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001233": {
+        "question": "Speaker:  Can you please tell me the title of this book?  Thank you.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00001201": {
+        "question": "What is my blood pressure reading?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_val_00001188": {
+        "question": "What color is the castle?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004309": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000092": {
+        "question": "The previous screen presented country, timezone, currency and keyboard and I went ahead and after I got a response from the web worker I selected Alt-N followed by next so I'm not sure if I ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00006044": {
+        "question": "What type of spice is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003363": {
+        "question": "What is the figure that is on this shirt?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000268": {
+        "question": "What does the label on this electronic device say?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00004031": {
+        "question": "Whats in this carton?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001361": {
+        "question": "What is in this box?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002326": {
+        "question": "What is this? ",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00002483": {
+        "question": "Which product is this?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003006": {
+        "question": "Which product is this?",
+        "answer": "Error",
+        "direction": "down"
+    },
+    "VizWiz_test_00004589": {
+        "question": "What food is this?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002831": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00000856": {
+        "question": "What does this code say?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00001140": {
+        "question": "Describe all the picture in this link.",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00001225": {
+        "question": "What's written on this phone?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004856": {
+        "question": "Are the lights turned on, on the modem",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000502": {
+        "question": "Ok how about now?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00006757": {
+        "question": "Wall colors and ceiling fan.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003288": {
+        "question": "what is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000794": {
+        "question": "what kind of soda is this?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004133": {
+        "question": "What is in this can?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002251": {
+        "question": "What kind of a case is this?",
+        "answer": "right",
+        "direction": "up"
+    },
+    "VizWiz_val_00002193": {
+        "question": "how many people on the bridge how many people on the bridge ",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000302": {
+        "question": "What type of broth is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001221": {
+        "question": "What is on this box?",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_val_00004220": {
+        "question": "This is a package with a label on it called Ducker. Can you tell me the ingredients in it, please?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000442": {
+        "question": "What does it say on this computer monitor?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00000885": {
+        "question": "Shh. Turn that off.",
+        "answer": "left",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002086": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000685": {
+        "question": "What is that? ",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002031": {
+        "question": "What does this thermostat read? ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002873": {
+        "question": "what is this can?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_test_00003186": {
+        "question": "Is the door open?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001360": {
+        "question": "Which one is the almond butter?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000743": {
+        "question": "Please tell me what's on the screen.",
+        "answer": "down",
+        "direction": "right"
+    },
+    "VizWiz_val_00000483": {
+        "question": "Yes I'm wondering if this one's too blurry or not. i'm trying to get a good picture of my medicine bottle. I wanna know what's inside of it before I take it because if I take the wrong it could mean serious trouble. Could someone help me. Thank you.",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00007681": {
+        "question": "Is this diet Mountain Dew?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003823": {
+        "question": "What kind of cigarettes are these?",
+        "answer": "left",
+        "direction": "left"
+    },
+    "VizWiz_val_00000956": {
+        "question": "What does this card say?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00002734": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003351": {
+        "question": "What seasoning is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00002641": {
+        "question": "what is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000994": {
+        "question": "What color is this product?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001726": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002124": {
+        "question": "what this card is?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00002160": {
+        "question": "Towel please",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003135": {
+        "question": "Yes please, dvd.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002087": {
+        "question": "What kind of TV Dinner is this? Thank you!",
+        "answer": "left",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000755": {
+        "question": "What does this say? What does this say? What does it say?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00002857": {
+        "question": "What color is this?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001255": {
+        "question": "What is the remaining balance of my account?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002551": {
+        "question": "what is the expiration date",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00003043": {
+        "question": "Is this pepper mill red or black? Thank you.",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003718": {
+        "question": "what are the cooking instructions for these?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_val_00003641": {
+        "question": "What kind of tracing is this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003797": {
+        "question": "What is thick?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001359": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00006411": {
+        "question": "Yes folks, I am trying to find out the content is of this can.",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001002": {
+        "question": "What does this say?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_test_00000554": {
+        "question": "What should I say when somebody is asking me what kind of phone I have?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001334": {
+        "question": "What is in this can?  I hope I got a good picture of it.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000283": {
+        "question": "CCan you tell me what percentagbe of being done the process is here?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_val_00001680": {
+        "question": "What is this K-cup?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00002900": {
+        "question": "What color is this mug?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00007497": {
+        "question": "What type of cereal is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001627": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001585": {
+        "question": "Is this brown rice or white rice?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003887": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000287": {
+        "question": "I think I pressed the okay button. Am I further along on this here? Thank you. ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002361": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000810": {
+        "question": "This is Sandy Finley.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003709": {
+        "question": "Can you please tell what's in this bottle?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00002934": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_test_00003720": {
+        "question": "What is in this can?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001565": {
+        "question": "What does the boy in the photo look like?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000795": {
+        "question": "Can you read me the gift code on this card? ",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00007728": {
+        "question": "What is in this box?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001850": {
+        "question": "What's the name of this mediation?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00001520": {
+        "question": "What book is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001668": {
+        "question": "I think this is a keyboard.  What color are the keys?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000189": {
+        "question": "Can you please tell me if there are any errors on this screen?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00002039": {
+        "question": "What's this picture about? ",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002921": {
+        "question": "blank audio",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004204": {
+        "question": "What is the name of this item?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_val_00004184": {
+        "question": "What is in my hand?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003924": {
+        "question": "Is this? ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000288": {
+        "question": "What letters am i supposed to enter in to claim the prize?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00001822": {
+        "question": "How could you tell?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002800": {
+        "question": "Is this ham?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003213": {
+        "question": "what is in this bag",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00005694": {
+        "question": "What what what color is my dog?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006981": {
+        "question": "What is it?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000921": {
+        "question": "Can you tell me what the security question, or the security numbers and letter are so I can add this into my edit field? Thanks.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000728": {
+        "question": "One weak image on the screen.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003738": {
+        "question": "What is in this can?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002489": {
+        "question": "What is a tattoo? ",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003799": {
+        "question": "What is this can? ",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002091": {
+        "question": "This appliance is a Black ",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001044": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00004591": {
+        "question": "What is in this can?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000910": {
+        "question": "Please read what's on the screen.",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00000033": {
+        "question": "Can you read the bottle on the screen?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003511": {
+        "question": "There should be a lit up screen towards the right side of the coffee maker. Can you please tell me what it says? Thank you in advance.",
+        "answer": "right",
+        "direction": "up"
+    },
+    "VizWiz_val_00000525": {
+        "question": "What does this say?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00002929": {
+        "question": "Can you tell me what's in this can?",
+        "answer": "Error",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00005576": {
+        "question": "What is the color of these shorts?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001891": {
+        "question": "What's the temperature on the thermostat?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001436": {
+        "question": "What is this? Is it accurate of a picture of my phone? Thank you.",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00000271": {
+        "question": "Is this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00007843": {
+        "question": "Hey, I need to know the inch mark where the tape goes into the ruler itself. Just a nominal inch, like 130-some, whatever",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001684": {
+        "question": "What frequency is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00002665": {
+        "question": "What does the display say?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001706": {
+        "question": "What color is it please?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003614": {
+        "question": "What are the cooking instructions on this package?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_val_00001178": {
+        "question": "What kind of perfume is this?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003272": {
+        "question": "What color is this one?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006917": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00002683": {
+        "question": "What is this box of cookies?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003732": {
+        "question": "What's in the bottle?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001714": {
+        "question": "What is the name of this book?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_test_00005386": {
+        "question": "what is this canned good?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000253": {
+        "question": "I'm trying again, I moved the camera. Can you tell me who this piece of mail is from? Thank you.",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00002372": {
+        "question": "What face is this?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003453": {
+        "question": "What is in this chart",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00005070": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003113": {
+        "question": "What color is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006496": {
+        "question": "What kind of tea or coffee is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001998": {
+        "question": "What flavor is this?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004064": {
+        "question": "What am i looking at?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000806": {
+        "question": "Can you see where I need to go or arrow up or down or anything like that to make sure the box of checks so I can hid in it.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00005837": {
+        "question": "I turned the jar over I thought it was mayonnaise too, but I'm still not sure. Could you read what the jar says? Thank you.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004024": {
+        "question": "Try to focus thi",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001111": {
+        "question": "Could you tell me what is on this laptop monitor? What's it showing?",
+        "answer": "down",
+        "direction": "right"
+    },
+    "VizWiz_val_00003529": {
+        "question": "Piece of meal. ",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003039": {
+        "question": "It's the thermostat temperature",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00007827": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00007745": {
+        "question": "What is that?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004226": {
+        "question": "Could you please tell me the name and possibly the model number of the coffee maker in this picture? Thank you.",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_test_00004535": {
+        "question": "What kind of soda is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001806": {
+        "question": "What kind of bottle is this?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004926": {
+        "question": "What's in this can? ",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003152": {
+        "question": "What medicine is in this bottle?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00003321": {
+        "question": "Do you know how to use the function button?  Help!",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00006492": {
+        "question": "What color are these pants?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000520": {
+        "question": "What does this sign say?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00000439": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000626": {
+        "question": "can you tell me what sort of car this is?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004041": {
+        "question": "What does this computer screen say?  I'm trying to log in and I have no speech.",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00001738": {
+        "question": "Still looking for which one of these is shampoo please.  Thank you.",
+        "answer": "Error",
+        "direction": "right"
+    },
+    "VizWiz_val_00003381": {
+        "question": "What kind of soup is this?",
+        "answer": "right",
+        "direction": "up"
+    },
+    "VizWiz_val_00003138": {
+        "question": "what is this bottle?",
+        "answer": "Error",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003631": {
+        "question": "What product is this please, and thank you?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_test_00000236": {
+        "question": "What is this a box of?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00005053": {
+        "question": "What temperature is the thermostat set to?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00002036": {
+        "question": "What is the product that's on the counter?",
+        "answer": "left",
+        "direction": "left"
+    },
+    "VizWiz_val_00003979": {
+        "question": "What does this shirt say?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000557": {
+        "question": "Okay, I just wanted to know who the return address is on the, or what the return address is on this envelope on the upper left hand corner.",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00000610": {
+        "question": "What flavor is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003623": {
+        "question": "read the instructions for this dip how to prepare it",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_val_00000485": {
+        "question": "What is this cream?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001290": {
+        "question": "What is the name of this product? Thank you. ",
+        "answer": "left",
+        "direction": "left"
+    },
+    "VizWiz_test_00005882": {
+        "question": "What color is this top?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000200": {
+        "question": "What is that drink?",
+        "answer": "Error",
+        "direction": "left"
+    },
+    "VizWiz_val_00000228": {
+        "question": "What's on the screen?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000764": {
+        "question": "What's in this bottle?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003302": {
+        "question": "What type of earl is this?",
+        "answer": "none of the above",
+        "direction": "down"
+    },
+    "VizWiz_test_00006063": {
+        "question": "What flavor of juice is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003885": {
+        "question": "what is on this shirt?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001193": {
+        "question": "What does this say?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004156": {
+        "question": "What is in this can? Thank you very much.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00002156": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001795": {
+        "question": "What is this bag?",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_val_00003518": {
+        "question": "What does this milk look safe?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002358": {
+        "question": "Please tell me what's on this business card. Thank you.",
+        "answer": "Error",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004179": {
+        "question": "What flavor of tea is this?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00002476": {
+        "question": "Return install button on this screen.",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000292": {
+        "question": "Can you get up from your chair, walk across the room and slap Walter?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003373": {
+        "question": "Can you tell the information on this bottle, please?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00003323": {
+        "question": "What's the expiration date on the milk?",
+        "answer": "down",
+        "direction": "right"
+    },
+    "VizWiz_val_00004246": {
+        "question": "What color is this shirt.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004266": {
+        "question": "What does this box say?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_val_00000443": {
+        "question": "I would like your best description of the grass that's in the picture that's from a power point presentation.  Thank you.",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002283": {
+        "question": "I need some help using this application. ",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004163": {
+        "question": "what is this thermostat temperature set at",
+        "answer": "left",
+        "direction": "left"
+    },
+    "VizWiz_val_00003598": {
+        "question": "Thank you for your help.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00007371": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00004036": {
+        "question": "Can you tell me what kind of soda this is?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00002856": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_test_00007256": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003862": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000743": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006087": {
+        "question": "What's the color of the handle on this bag?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000791": {
+        "question": "What color is that shirt?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000984": {
+        "question": "We need to know what is on the screen and which item is for driver signing.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00003977": {
+        "question": "Could you tell me the usage instructions for this shampoo? thank you.",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00006196": {
+        "question": "how many lights are visible?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001971": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003935": {
+        "question": "This is much lighter.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000168": {
+        "question": "What does the computer screen say?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00002987": {
+        "question": "There's a screen above my finger. Can you please tell me what it says? Thank you in advance.",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00001088": {
+        "question": "What is this book's title?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00000031": {
+        "question": "Can you tell me what color this modem is please?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006670": {
+        "question": "What is this item?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001530": {
+        "question": "What is the color of this laptop?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000158": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00003017": {
+        "question": "What's in this capture?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000142": {
+        "question": "Work for me or I'm going to beat you. I will beat the out of you. ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004284": {
+        "question": "This is the display of a treadmill, can you tell me the distance in miles please. ",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002770": {
+        "question": "What's on the screen?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00001308": {
+        "question": "What is the current temperature?",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_val_00000580": {
+        "question": "I'm trying to restart my computer, and my screen reader isn't working and I'm wondering if it's saying to start Windows normally, or repair, or what the options are.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00002894": {
+        "question": "Can you read these words please?",
+        "answer": "right",
+        "direction": "up"
+    },
+    "VizWiz_val_00002286": {
+        "question": "Hi, could you please tell me what's in the can in my right hand? Thank you.",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00004160": {
+        "question": "What is in this can?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00003894": {
+        "question": "if the letters are in focus now, what does the search say?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_test_00002705": {
+        "question": "What's in the box?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006944": {
+        "question": "Please can you tell me what color the carpet is? ",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00005316": {
+        "question": "What color is this?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001223": {
+        "question": "Which card is this?",
+        "answer": "Error",
+        "direction": "left"
+    },
+    "VizWiz_val_00000983": {
+        "question": "What are the numbers shown that I need to type in the box?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00001518": {
+        "question": "Can you tell me the expiration date if you can see it on this milk cap?",
+        "answer": "left",
+        "direction": "up"
+    },
+    "VizWiz_test_00003813": {
+        "question": "What color is the bow?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000670": {
+        "question": "What does this receipt say.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00003851": {
+        "question": "Can you please tell me what the two large buttons on the button are, from left to right, thank you.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003673": {
+        "question": "Object. Dude, you're so creepy. You sound evil when you make that dog sound.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002979": {
+        "question": "There are two bottles, what are they?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_test_00006054": {
+        "question": "Can you tell me what this says?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001369": {
+        "question": "What is it?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000480": {
+        "question": "What's being displayed on my screen?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00004496": {
+        "question": "What is the title of this CD? ",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000844": {
+        "question": "Can you please identify the words appearing on the picture on the screen. It's a captcha that i need to be able to identify. Thank you.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00002614": {
+        "question": "You gonna take that.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003816": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00004139": {
+        "question": "What does it say on this cap?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00007889": {
+        "question": "What is this? ",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000105": {
+        "question": "Has the text on the screen changed?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000185": {
+        "question": "Please tell me whats on my screen, thank you, thank you, thank you I have no speech, bless you all for doing this. Oh No!",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00000829": {
+        "question": "I'm dealing with a Captcha but I can't see the screen and I need it to request something from a website.  Can you tell me what the Captcha is?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00000463": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004003": {
+        "question": "What is this photo of?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002042": {
+        "question": "What is this product?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002163": {
+        "question": "So now I turned it the other way, and I'm gonna see if this looks right now. I'm gonna see if I can't stop it. I don't guess I can. ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004098": {
+        "question": "What color is this shirt?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001705": {
+        "question": "Whats it say on the label?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002708": {
+        "question": "What is the E.Q. number?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_test_00001487": {
+        "question": "How much money is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002273": {
+        "question": "What do you see in this photo?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002040": {
+        "question": "hello. is this decaf or regular coffee? thank you. I appreciate that you're there to help. have a good day.",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004102": {
+        "question": "What space is this?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001267": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003737": {
+        "question": "what is this???  but its nice",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002151": {
+        "question": "Describe the ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004044": {
+        "question": "What is this a package of?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000279": {
+        "question": "These curtains look clean.",
+        "answer": "Error",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001159": {
+        "question": "Watch this!",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001992": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "up"
+    },
+    "VizWiz_test_00003625": {
+        "question": "Hello. What's written on that computer screen please? Thank you.",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003694": {
+        "question": "This is a table.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002933": {
+        "question": "What is this bottle?",
+        "answer": "right",
+        "direction": "down"
+    },
+    "VizWiz_val_00000722": {
+        "question": "I just took a picture of what I am sure is a charger but i don't know what device it says that its for, does it say on this charger what its suppose to be for? Thank you.",
+        "answer": "down",
+        "direction": "right"
+    },
+    "VizWiz_test_00002798": {
+        "question": "What color is this skirt, please? Thank you.",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002349": {
+        "question": "some time ya know",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00005141": {
+        "question": "What denomination bill is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001828": {
+        "question": "Can you give me any information on this radio? Availability, repair, other stuff? Thanks.",
+        "answer": "right",
+        "direction": "down"
+    },
+    "VizWiz_val_00001630": {
+        "question": "What does this say?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003405": {
+        "question": "could you tell me the sodium content of the food in this box thank you",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_test_00004768": {
+        "question": "What color is this shirt?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004087": {
+        "question": "Did you hear my question?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003977": {
+        "question": "You know what drink this is?",
+        "answer": "left",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00006356": {
+        "question": "Hey, what kind of salad dressing is this please?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003486": {
+        "question": "Name of this wine",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_test_00000774": {
+        "question": "What color shoes am I wearing? ",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000000": {
+        "question": "Ok. There is another picture I hope it is a better one.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000633": {
+        "question": "What is the kaptcha result?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000659": {
+        "question": "Which time is shown in Dwight's corner above, in the new alarm? Thank you. ",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003667": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00005530": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000812": {
+        "question": "How the hell do i know? Dont send me stupid shit like that?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000706": {
+        "question": "Can you tell me what color my shirt is?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003745": {
+        "question": "What is that a bottle of?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000210": {
+        "question": "Hi, what does this card say, I'm looking for an 8 digit ID number.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00000772": {
+        "question": "What is in this image?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003569": {
+        "question": "What does this card say?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002960": {
+        "question": "What's this?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_test_00007330": {
+        "question": "What kind of potatoes are these?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00004849": {
+        "question": "What color is this shirt?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003177": {
+        "question": "What color is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001751": {
+        "question": "What kind of cereal is this?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001945": {
+        "question": "this is the claim?  Thank you",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000299": {
+        "question": "Is the same screen still up? Or did it change? I just--tried to hit finish. ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001273": {
+        "question": "What denomination is this dollar bill?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00007920": {
+        "question": "..is this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000926": {
+        "question": "What question, what answer. Sorry, what options are available to me?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000430": {
+        "question": "What is the 5-digit code?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000783": {
+        "question": "What is this? ",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003113": {
+        "question": "What's in front?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002280": {
+        "question": "It's also a possibility that it rolled onto my floor. Did it?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00001102": {
+        "question": "What is this?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00005913": {
+        "question": "What kind of copy is this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003211": {
+        "question": "What does this screen say?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000924": {
+        "question": "Where can I enter my password?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00007601": {
+        "question": "WHat kind of milk is this, please? ",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003616": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00002087": {
+        "question": "what is this item?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_test_00006293": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000219": {
+        "question": "What's on this shirt?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002944": {
+        "question": "What can I take a picture of?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002059": {
+        "question": "Which hydration?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00001618": {
+        "question": "What color are my jeans?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003780": {
+        "question": "What does this say?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002073": {
+        "question": "What is this medication?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002751": {
+        "question": "What brand and variety are these chips?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00003248": {
+        "question": "What does this say?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000742": {
+        "question": "What is this? What was the answer that you got?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00000051": {
+        "question": "What letters am I supposed to enter in to claim the prize?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00000420": {
+        "question": "What does this say?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00003073": {
+        "question": "What color is this shirt?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002206": {
+        "question": "Hi what is the name of the food that is in this package? Thank you.",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001333": {
+        "question": "What denomination is this dollar bill? ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00001748": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001625": {
+        "question": "Is this a can of Coke?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000490": {
+        "question": "Did that help any?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001430": {
+        "question": "If the card is shown in this picture, what does it say?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_test_00004558": {
+        "question": "Can you please tell me what kind of Girl Scout cookies are in this box? Thank you.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002056": {
+        "question": "Can you tell me the order of the buttons on this remote control?",
+        "answer": "Error",
+        "direction": "left"
+    },
+    "VizWiz_val_00003280": {
+        "question": "What brand and type of multivitamins is it, and can you read the label, please?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003023": {
+        "question": "Can you tell me what kind of bread this is?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00002661": {
+        "question": "Could you tell me who this to and from please?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00004112": {
+        "question": "What's in this cream?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002168": {
+        "question": "What I have is this data",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001773": {
+        "question": "Is this picture any closer to the box? What does it say? Thank you.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000617": {
+        "question": "What size is this?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003528": {
+        "question": "What is in this screen?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00004298": {
+        "question": "C'mon. I'm getting the wait thing.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000363": {
+        "question": "What kind of cigarettes are these?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003229": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002547": {
+        "question": "What is this a can of?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000909": {
+        "question": "What's on this computer screen?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00003041": {
+        "question": "Ok recording a question.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000933": {
+        "question": "Number of counter.",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_test_00001620": {
+        "question": "what color is this pen?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000813": {
+        "question": "What is written there?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004117": {
+        "question": "What flavor is this energy bar?",
+        "answer": "right",
+        "direction": "up"
+    },
+    "VizWiz_test_00000742": {
+        "question": "What color are these socks?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002736": {
+        "question": "What curtain?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002348": {
+        "question": "What is in this spray bottle?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000452": {
+        "question": "What's in this box please? Thank you. ",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00004028": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001135": {
+        "question": "What's wrote on my computer screen? ",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000143": {
+        "question": "I need to know the cooking instructions for grilling for these burgers. If you need to turn, me to turn the package over just let me know.",
+        "answer": "Error",
+        "direction": "right"
+    },
+    "VizWiz_val_00001584": {
+        "question": "I'm looking for the sound category to be highlighted.  How far away am I?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003116": {
+        "question": "please read the text on this box which is another box.",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00002078": {
+        "question": "What temperature is my air conditioner set at?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006572": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003136": {
+        "question": "What is this card?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00001677": {
+        "question": "What is in this jar?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006059": {
+        "question": "What does this label say?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00004684": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003235": {
+        "question": "This guy look like in this photograph? ",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003255": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001303": {
+        "question": "This is a Tony Pacco's chili sauce.  I would like to know if it's the hot or the mild?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00000519": {
+        "question": "What does it say?",
+        "answer": "down",
+        "direction": "up"
+    },
+    "VizWiz_val_00003551": {
+        "question": "What does this say?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003226": {
+        "question": "What is it?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000395": {
+        "question": "what does this say?",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_test_00005090": {
+        "question": "What spice is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006439": {
+        "question": "What's in that box?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000871": {
+        "question": "Can you read any of the text on the bottle to tell me what it is? Thank you.",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_test_00005232": {
+        "question": "What exactly is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00002539": {
+        "question": "How much money is this?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000119": {
+        "question": "what is written on the screen?",
+        "answer": "Error",
+        "direction": "left"
+    },
+    "VizWiz_val_00000414": {
+        "question": "What's on the screen?",
+        "answer": "right",
+        "direction": "up"
+    },
+    "VizWiz_val_00001297": {
+        "question": "Here's number two.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000915": {
+        "question": "What does my screen say?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_test_00000731": {
+        "question": "What does this say?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001922": {
+        "question": "I'm afraid the best I can do is send another photo, because this one was actually a photo from my photos. It's not one I just took.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000116": {
+        "question": "What does this arrow say?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00007764": {
+        "question": "What does the sky look like?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000040": {
+        "question": "What room is this?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00004423": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004151": {
+        "question": "Where's the help for vizwiz?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000081": {
+        "question": "Please tell me the title of this book, thank you for your time.",
+        "answer": "Error",
+        "direction": "right"
+    },
+    "VizWiz_test_00000143": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000198": {
+        "question": "Can you tell me what the screen says?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00003514": {
+        "question": "What is the brand of this case?",
+        "answer": "right",
+        "direction": "up"
+    },
+    "VizWiz_test_00004256": {
+        "question": "Does is say whether its apple or lemon on this edge? If someone is out there, a web worker, please let me know, at least, if you're trying.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000716": {
+        "question": "What does this guy look like?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003649": {
+        "question": "What is this picture of?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000392": {
+        "question": "testing, testing",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003103": {
+        "question": "Hi.  I won't know somebody's speaking Spanish.",
+        "answer": "Error",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002120": {
+        "question": "what is that?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00004961": {
+        "question": "What is this a photo of?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000641": {
+        "question": "What did I just take a picture of?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003074": {
+        "question": "What is this medication?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000961": {
+        "question": "what does it say?",
+        "answer": "right",
+        "direction": "down"
+    },
+    "VizWiz_val_00000391": {
+        "question": "Give me cheat code, please.",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_test_00005111": {
+        "question": "What color is this sock?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001713": {
+        "question": "Where is displayed?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002456": {
+        "question": "What kind of Tic Tacs are these?",
+        "answer": "left",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002129": {
+        "question": "What book is this?",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_val_00000446": {
+        "question": "What is this paper for?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002446": {
+        "question": "what is in this box",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003127": {
+        "question": "What kind of rice crispy treat is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004080": {
+        "question": "When does this expire?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00002053": {
+        "question": "Can you tell me the numbers on the square?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002943": {
+        "question": "Hello Jordan. Lovely",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00001475": {
+        "question": "What color is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006532": {
+        "question": "What flavor is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001414": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002496": {
+        "question": "What is the expiration date?",
+        "answer": "down",
+        "direction": "right"
+    },
+    "VizWiz_val_00000106": {
+        "question": "Hi, can you give me the percentage of the scan disk? Thanks. ",
+        "answer": "left",
+        "direction": "left"
+    },
+    "VizWiz_test_00003829": {
+        "question": "What does my blood pressure read?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000289": {
+        "question": "they would like for us to take an 8 digit id number",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_test_00006932": {
+        "question": "Hi, what is this album say, who is this? And hey, you're listening to by the way, thanks.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00005832": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000294": {
+        "question": "Can you please to describe to me in detail what this picture looks like? Thank you.",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_val_00001390": {
+        "question": "please describe what this is or state any writing that's on it.",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00000406": {
+        "question": "Hi, please tell me what is showing in the message on my computer screen. Thank you.",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00000703": {
+        "question": "Does this say anything?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00002332": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003934": {
+        "question": "What's the temperature?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000334": {
+        "question": "Can you tell me what CD this is?",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_val_00002832": {
+        "question": "What color is this shoe?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000396": {
+        "question": "Can you tell me the verification code?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_val_00000058": {
+        "question": "I cannot move the camera slightly closer to the monitor.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000501": {
+        "question": "What caliber is this bullet?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000697": {
+        "question": "What does this say?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00002787": {
+        "question": "Part is this.",
+        "answer": "Error",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002028": {
+        "question": "Can that candy bar be identified?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00003343": {
+        "question": "What type of medicine is this?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00001466": {
+        "question": "What are the characters in this captcha?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002807": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001030": {
+        "question": "Can you tell me now what's on the screen, please.",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000536": {
+        "question": "Please number and matters?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001631": {
+        "question": "What kind of pop is inside this can?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00003232": {
+        "question": "What does this cap say?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001248": {
+        "question": "What do these two Kellogg boxes say?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004269": {
+        "question": "What week is this? Not sure if you'll be able to tell or not.",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003982": {
+        "question": "What page number is visible on this page? Thank you.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001887": {
+        "question": "Fuck this",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00001613": {
+        "question": "Okay. Let's try this again. This is the view from the front of the speaker. So I was just wondering what the shape of it is.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003089": {
+        "question": "Who's this letter from?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00004261": {
+        "question": "Ok, move the box to the left. Can you read the label now if it says calming or bedtime? That would be the flavor of the tea, the herbal.",
+        "answer": "left",
+        "direction": "right"
+    },
+    "VizWiz_val_00003477": {
+        "question": "can you tell me what this is please?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_test_00002430": {
+        "question": "What product is this, including brand name if possible?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000280": {
+        "question": "What is the color of my shirt?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001793": {
+        "question": "What is song is this?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00003737": {
+        "question": "Ok here's the first side of the box, hopefully this picture will come out and we'll be successful in the conventional oven temperature and length of time. Thank you very much. I hope this picture",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003046": {
+        "question": "what is in this bottle",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003638": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00007527": {
+        "question": "What kind of pills are these",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000038": {
+        "question": "Please tell me what this is.",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_val_00000923": {
+        "question": "What is being displayed on my screen?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_val_00001084": {
+        "question": "What's in this tent?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00006902": {
+        "question": "I need to know the name of this product.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002453": {
+        "question": "What is the expiration date?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_test_00006616": {
+        "question": "What is this item?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00005744": {
+        "question": "Please can you tell me what is said on this bottle, thank you.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001056": {
+        "question": "What does this say? What does this say?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00000220": {
+        "question": "Looking for the time that this screen is trying to tell me. I'm trying to do a FileVault decryption. ",
+        "answer": "Error",
+        "direction": "left"
+    },
+    "VizWiz_val_00003573": {
+        "question": "Well, you know I,   Look, if you want things durable then you want a rubber caging, a plastic, like a ...",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000107": {
+        "question": "Please tell me the title of this book. Thank you for your time.",
+        "answer": "Error",
+        "direction": "right"
+    },
+    "VizWiz_val_00002249": {
+        "question": "What does the thermostat say?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00001697": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001635": {
+        "question": "Okay, I think I have got the instructions right side up. There was actually a telephone call right when I read the message, and I believe I turned the box over. So I need to know what the conventional oven setting temperature is and... ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000367": {
+        "question": "Does practice make perfect? We'll try this later again.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00005059": {
+        "question": "What's on the screen?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000471": {
+        "question": "Hi, that's great, okay, I'm in recovery options, are you able to see from the picture any of the options that I can select from? Is it a menu? Is it a numbered system? Will number one take me out of the",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000765": {
+        "question": "What type of milk is this?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00007535": {
+        "question": "What color is the wall?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004091": {
+        "question": "This is number five.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002993": {
+        "question": "What is this logo?",
+        "answer": "Error",
+        "direction": "right"
+    },
+    "VizWiz_val_00001689": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001865": {
+        "question": "What color is my dog?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000780": {
+        "question": "Is there anything you could tell me about the screen? Do you see a percentage perhaps? I'm trying to figure out where this diagnostic is going.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00002530": {
+        "question": "Hi, can you identify this sun cream?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00002965": {
+        "question": "How many fingers are there on the pages?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003798": {
+        "question": "I'm in a control study for the clothing",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00006499": {
+        "question": "what does the short say?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001706": {
+        "question": "What is this a can of?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000441": {
+        "question": "What's highlighted right now and is there an option to boot from a USB flash drive somewhere?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00002397": {
+        "question": "Is this diet Pepsi or regular Pepsi?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006698": {
+        "question": "What is it?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001988": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00003244": {
+        "question": "Can you tell me what bill that is please?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001444": {
+        "question": "What color is the shark?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000294": {
+        "question": "Which number do I need to dial for emergencies? ",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000188": {
+        "question": "Tell me about this creme, what is showing, what is visible, doesn't really matter if you can't read the full text as long as I know there's something going on that's fine. ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000502": {
+        "question": "What color is this shirt?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00002262": {
+        "question": "Which flavor of yogurt is this please?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002233": {
+        "question": "What type of bag is this?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001561": {
+        "question": "How many Mils is this can of Pepsi? Come on. Try something again. Got it. ",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00004911": {
+        "question": "What other colors are in the skirt besides black?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003613": {
+        "question": "When does this expire?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00003937": {
+        "question": "What color is my jacket?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000953": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002893": {
+        "question": "What's this?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002932": {
+        "question": "What is this on this.. what is the label on this cover? What's the name?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00006413": {
+        "question": "What color?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003039": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006378": {
+        "question": "What's that? What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003840": {
+        "question": "What kind of Progresso soup is this?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00002069": {
+        "question": "This regular sugar or is this NutraSweet or something else?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000004": {
+        "question": "What does the arrow say?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000543": {
+        "question": "Okay this label, say either bedtime or calming.",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00002132": {
+        "question": "What's the logo on this t-shirt?",
+        "answer": "left",
+        "direction": "left"
+    },
+    "VizWiz_val_00000498": {
+        "question": "What does this screen say on the laptop?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_val_00003639": {
+        "question": "What is this please?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002602": {
+        "question": "What is this bottle?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002603": {
+        "question": "what is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003417": {
+        "question": "What is the label on this bottle say?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003608": {
+        "question": "Alright. Now we're recording. I will record a bit and then Robert will record a bit. One, two, three, four, five, six, seven, eight.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000537": {
+        "question": "what type of tablets are these?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_test_00004724": {
+        "question": "Can you say what is in this packet?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001675": {
+        "question": "What is the expiration date?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00002478": {
+        "question": "Is this flip flop black?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003383": {
+        "question": "What kind of chips are those?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000339": {
+        "question": "What's this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00007881": {
+        "question": "What is on the page?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001781": {
+        "question": "What's in this can?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00007094": {
+        "question": "What color is this?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000374": {
+        "question": "Can you read this these numbers please?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_val_00000955": {
+        "question": "What option is highlighted? Is there a way, does it say how to change options, change what's highlighted? I'm trying to switch to USB, flash drive.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00004079": {
+        "question": "What is on this id badge?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00002707": {
+        "question": "For how long do I cook this in the microwave?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00004103": {
+        "question": "What kind of cologne is this/",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00000249": {
+        "question": "Hi can you tell if this page has my boarding pass on it? Thanks.",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_val_00002327": {
+        "question": "What is this?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00001216": {
+        "question": "How much is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000918": {
+        "question": "What does this say?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00004878": {
+        "question": "can you tell me if this bracelet is black or is it turquoise ",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003932": {
+        "question": "How much time is on the display?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00000439": {
+        "question": "What is on the screen?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00001070": {
+        "question": "You record.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003005": {
+        "question": "Guy in this picture look like?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003581": {
+        "question": "Sorry for the glare in the last one. Can you please read me the captcha on this screen. Should be a few letters. Thanks so much. ",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002710": {
+        "question": "What does this say?",
+        "answer": "Error",
+        "direction": "right"
+    },
+    "VizWiz_test_00000436": {
+        "question": "Is this a gift card for?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002587": {
+        "question": "Does this stack look too big?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001913": {
+        "question": "What is this frozen dinner and what is the instructions for conventional oven temperature and number of minutes? Thank you very much.",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00001976": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001102": {
+        "question": "Do I have to hit anything? Any key combination to make it work?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00003909": {
+        "question": "How do you cook this pizza?",
+        "answer": "left",
+        "direction": "left"
+    },
+    "VizWiz_val_00003858": {
+        "question": "I have turned the box around again. Can you make out an expiration date now? Sorry about this. ",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00001492": {
+        "question": "What does this label on this pill bottle say?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00001625": {
+        "question": "What's this?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002539": {
+        "question": "What's in the bottle, please?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000332": {
+        "question": "I'm trying again.  I moved the camera.  Can you tell me where this piece of mail is from?  Thank you.",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00004037": {
+        "question": "How many ..",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000369": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001938": {
+        "question": "How many ounces in this container?",
+        "answer": "down",
+        "direction": "right"
+    },
+    "VizWiz_test_00000904": {
+        "question": "So how long do I cook this in the microwave?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004013": {
+        "question": "What flavor of cat food is this, please?",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_val_00003887": {
+        "question": "What is this? ",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002055": {
+        "question": "What kind of wine is this?",
+        "answer": "Error",
+        "direction": "right"
+    },
+    "VizWiz_val_00001493": {
+        "question": "What is this medication?",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_val_00002636": {
+        "question": "Thank you for the beautiful color comment. I was wondering though, I'm trying to get the status of this light blinking, because my computer hasn't been turned on all day.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003982": {
+        "question": "Can you describe this picture?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000571": {
+        "question": "What is this screen telling me or asking me to do?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00002390": {
+        "question": "Can you please tell me what's in that container?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_test_00002367": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000594": {
+        "question": "is my dick big?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00006801": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004315": {
+        "question": "Is this modern?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001156": {
+        "question": "can you please tell me what the captcha says",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_val_00000486": {
+        "question": "What does this captcha say?",
+        "answer": "left",
+        "direction": "left"
+    },
+    "VizWiz_val_00001103": {
+        "question": "WHAT IS THIS CORRECT THAT I HAVE AN MY HAND",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000181": {
+        "question": "Real pun.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003416": {
+        "question": "mrs abibseed",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000809": {
+        "question": "Do you guys see the word mac ID? And if you do, what's the Mac ID number?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000151": {
+        "question": "Okay, I moved the camera a little to the right. Hopefully that will get whatever the code is I need and I am looking forward to the answer. Thanks a bunch.",
+        "answer": "Error",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003451": {
+        "question": "What type of coffee is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00007392": {
+        "question": "What breed of dog is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000207": {
+        "question": "This is probably going to be a long shot in the dark, but I'm trying to fill out a form which requires a captcha, to be solved, and if someone could tell me what the code is, I'd be extremely grateful, thank you.",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00005486": {
+        "question": "What am I looking at?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000830": {
+        "question": "What color is it?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001001": {
+        "question": "Is there a shortcut key combination I can get to start the install?",
+        "answer": "none of the above",
+        "direction": "left"
+    },
+    "VizWiz_val_00000030": {
+        "question": "What does that money say?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003466": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_val_00000223": {
+        "question": "What is the number on the back of this card?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002528": {
+        "question": "What is the name of this lotion?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_test_00003477": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001811": {
+        "question": "What's this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003243": {
+        "question": "What dinner is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00005228": {
+        "question": "What does this say?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_val_00001380": {
+        "question": "What made you this",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00001437": {
+        "question": "Can you tell me who's on this baseball card, please?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004009": {
+        "question": "What is in this bedroom?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002197": {
+        "question": "What numbers are on my lock right now?",
+        "answer": "down",
+        "direction": "up"
+    },
+    "VizWiz_val_00000607": {
+        "question": "I'm so sorry. I don't know how to... I've never really taken a picture of this type of thing before.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000682": {
+        "question": "The security code is about 46 percent down from the page. Can you identify the code and tell it to me? Thanks.",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_val_00003842": {
+        "question": "Participating in the clothing identification pilot study.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002027": {
+        "question": "Do you know what time it is?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00005004": {
+        "question": "What liquid is in this cup?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006485": {
+        "question": "What is this a can of?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00001747": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000827": {
+        "question": "What does the sheet of paper say?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_test_00001275": {
+        "question": "What flavor is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002020": {
+        "question": "Now can you read what's in this?",
+        "answer": "Error",
+        "direction": "up"
+    },
+    "VizWiz_val_00002568": {
+        "question": "What is this please?",
+        "answer": "right",
+        "direction": "down"
+    },
+    "VizWiz_val_00000039": {
+        "question": "What denomination is this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000679": {
+        "question": "What did that say?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00002418": {
+        "question": "What flavor is this soup?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_val_00003897": {
+        "question": "The test?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00002100": {
+        "question": "Is this a ten dollar bill?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001769": {
+        "question": "What is this please?",
+        "answer": "down",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004373": {
+        "question": "What kind of pop is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006642": {
+        "question": "What is the picture on this box?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00004289": {
+        "question": "What does this say?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00005532": {
+        "question": "What is that?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000465": {
+        "question": "Could you tell me what these options say? Do this list from top to bottom.",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_test_00001449": {
+        "question": "What color is these beads?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000757": {
+        "question": "What is the code to be typed?",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_test_00003837": {
+        "question": "What kind of medicine is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000852": {
+        "question": "How many calories in this bottle?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000010": {
+        "question": "What about the signery.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00005631": {
+        "question": "What flavor is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000373": {
+        "question": "What was in this box? thank you.",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00001688": {
+        "question": "What is the writing on the screen?",
+        "answer": "down",
+        "direction": "left"
+    },
+    "VizWiz_test_00000676": {
+        "question": "What color is that please?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000638": {
+        "question": "Is the color of this guys feet?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00003984": {
+        "question": "What brand printer is this?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00004029": {
+        "question": "is this?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00000851": {
+        "question": "What color is this cup? I hope I got the cup.",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001393": {
+        "question": "What does the screen say?",
+        "answer": "left",
+        "direction": "right"
+    },
+    "VizWiz_test_00003992": {
+        "question": "what is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00004361": {
+        "question": "Does this look good on me since I am very petite?",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00000951": {
+        "question": "I was wondering if you could read what was on the screen? I hope I got a good picture.",
+        "answer": "up",
+        "direction": "right"
+    },
+    "VizWiz_test_00002787": {
+        "question": "What is cooking on the grill?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003136": {
+        "question": "What is in this box?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003902": {
+        "question": "What's the exit?",
+        "answer": "right",
+        "direction": "down"
+    },
+    "VizWiz_test_00001642": {
+        "question": "What movie is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00001198": {
+        "question": "What video game is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000351": {
+        "question": "What color?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002217": {
+        "question": "What's the name of this phone, and model please?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00005201": {
+        "question": "What book is this?",
+        "answer": "Error",
+        "direction": "left"
+    },
+    "VizWiz_test_00003657": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00001031": {
+        "question": "Can you read this to me please?",
+        "answer": "up",
+        "direction": "up"
+    },
+    "VizWiz_val_00002866": {
+        "question": "Are you ready to put up or shut up?",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004456": {
+        "question": "What color is this shirt?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000124": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00002677": {
+        "question": "What is this?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00007476": {
+        "question": "What temperature is the oven set to? ",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002208": {
+        "question": "What is this?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00002668": {
+        "question": "What's in this bottle?",
+        "answer": "Error",
+        "direction": "up"
+    },
+    "VizWiz_test_00006257": {
+        "question": "What is this?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000685": {
+        "question": "What does the screen say?",
+        "answer": "down",
+        "direction": "right"
+    },
+    "VizWiz_test_00003341": {
+        "question": "What color is these jeans please?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000238": {
+        "question": "what is this dish",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000551": {
+        "question": "Do you know if I move the cursor with the tab key or the arrow key and either way how many taps do I move it?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000737": {
+        "question": "What does this screen say?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00003182": {
+        "question": "What is this cereal?",
+        "answer": "none of the above",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00002506": {
+        "question": "What is the expiration date?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00002147": {
+        "question": "Is this shampoo or conditioner?",
+        "answer": "none of the above",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006661": {
+        "question": "What kind of candy is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00002974": {
+        "question": "What is this bat?",
+        "answer": "left",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00003730": {
+        "question": "Body lotion or body wash.",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_val_00001289": {
+        "question": "What are the cooking instructions for the lasagna?",
+        "answer": "right",
+        "direction": "right"
+    },
+    "VizWiz_val_00003764": {
+        "question": "What is this ?",
+        "answer": "up",
+        "direction": "down"
+    },
+    "VizWiz_test_00003448": {
+        "question": "So the sky does look like we're gonna be in for quite a big storm.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00003859": {
+        "question": "What color are they?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00006166": {
+        "question": "What are these?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003192": {
+        "question": "Is this some sort of speaker?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000152": {
+        "question": "What is the captcha show?",
+        "answer": "right",
+        "direction": "left"
+    },
+    "VizWiz_test_00000608": {
+        "question": "What kind of soap is this?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000070": {
+        "question": "About this one, thank you.",
+        "answer": "up",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001295": {
+        "question": "No. In progress.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_val_00001661": {
+        "question": "When does this expire?",
+        "answer": "down",
+        "direction": "down"
+    },
+    "VizWiz_test_00000151": {
+        "question": "What color is this shirt",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000619": {
+        "question": "What color is this shirt?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00003493": {
+        "question": "whats time is it if you can't read it just tell me the time",
+        "answer": "right",
+        "direction": "down"
+    },
+    "VizWiz_test_00001260": {
+        "question": "What is that?",
+        "answer": "right",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00002510": {
+        "question": "What is this?",
+        "answer": "down",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_val_00000245": {
+        "question": "What does the screen say?",
+        "answer": "Error",
+        "direction": "left"
+    },
+    "VizWiz_val_00001317": {
+        "question": "Expiration date.",
+        "answer": "down",
+        "direction": "right"
+    },
+    "VizWiz_val_00000658": {
+        "question": "What are those letters?",
+        "answer": "up",
+        "direction": "left"
+    },
+    "VizWiz_val_00000076": {
+        "question": "Business card.",
+        "answer": "right",
+        "direction": "none of the other options"
+    },
+    "VizWiz_test_00004003": {
+        "question": "How long?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000142": {
+        "question": "What is the name of the CD?",
+        "answer": "up",
+        "direction": "leave it unchanged"
+    },
+    "VizWiz_test_00000389": {
+        "question": "What kind of food is this?",
+        "answer": "Error",
+        "direction": "leave it unchanged"
+    }
+}

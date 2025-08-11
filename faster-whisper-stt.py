@@ -1,0 +1,7 @@
+from faster_whisper import WhisperModel
+
+model = WhisperModel("distil-small.en")
+
+segments, info = model.transcribe("0.wav")
+for segment in segments:
+    print("[%.2fs -> %.2fs] %s" % (segment.start, segment.end, segment.text))
